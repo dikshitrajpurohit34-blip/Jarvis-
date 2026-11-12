@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.hprof
+
+# OS
+.DS_Store
+
+# Kotlin
+.kotlin/
+
+# APK
+*.apk
+*.aab
